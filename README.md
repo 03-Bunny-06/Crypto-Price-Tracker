@@ -44,6 +44,8 @@ Notes:
 * Ensure your API key has sufficient access to fetch data.
 * Modify the cryptos and currencies variables as needed to customize the list of cryptocurrencies and target currencies.
 
+<hr/>
+
 Credits:
 
 * API Source: CryptoCompare
