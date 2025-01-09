@@ -37,6 +37,9 @@ A visually styled table of cryptocurrency prices with columns for:
 * Cryptocurrency name
 * Prices in BTC, USD, EUR, and INR
 
+![image](https://github.com/user-attachments/assets/32ab9e50-9cd9-4552-b710-c2175022a9fa)
+
+
 <hr/>
 
 Notes:
